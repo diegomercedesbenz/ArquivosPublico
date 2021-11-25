@@ -1,0 +1,82 @@
+##########
+# Logins #
+##########
+
+#Citrix
+usuário usuario.sobrenome
+senha   senha
+
+#Beedo
+usuário usuario.sobrenome@atento.com.br
+senha   senha
+
+#WebMail
+usuário atentobr\ab"RA do Funcionario"
+senha   senha
+
+#Compas
+usuário USUARIO
+senha   senha
+
+#Avaya
+usuário 235856
+senh    senha
+
+#Genesys
+usuário usuario.sobrenome
+senha   senha
+
+#Mainframe
+usuário F655666
+senha   password
+
+#Americas
+usuário USUARIO
+senha   brasil@2021
+
+#########
+# Sites #
+#########
+
+#WebMail
+https://webmail.atento.com.br/
+
+#Beedo
+https://crcmercedesbenz.beedoo.io/login
+
+#Citrix
+https://compass-am-sg.i.daimler.com/vpn/index.html
+
+#Portal Atento
+https://candidatos.atento.com.br/
+
+#Pessoas Online Atento
+https://pessoasonline.atento.com.br/PessoasOnline/
+
+#Alelo Vale Alimentação e Refeição
+https://www.meualelo.com.br/
+
+#SUS Conecte
+https://conectesus-paciente.saude.gov.br/
+
+###############################
+# Citrix Pergunta e Respostas #
+###############################
+
+1. Pergunta 
+Resposta
+
+2. Pergunta 
+Resposta
+
+3. Pergunta 
+Resposta
+
+4. Pergunta 
+Resposta
+
+5. Pergunta 
+Resposta
+
+6. Pergunta 
+Resposta
